@@ -1,6 +1,3 @@
-Here's a README template for your Django-based personal blog site:
-
----
 
 # Personal Blog Site
 
