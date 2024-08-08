@@ -1,6 +1,7 @@
 
 # Personal Blog Site
 ![image](https://github.com/user-attachments/assets/11db4c82-c642-4a1a-896c-ffce646ac6e6)
+View the site here: https://syeduzair59.pythonanywhere.com/
 
 
 ## Overview
