@@ -10,7 +10,6 @@ This is a personal blog website developed using Django, a powerful and flexible 
 - **CRUD Functionality**: Create, Read, Update, and Delete blog posts.
 - **Comment System**: Users can leave comments on blog posts.
 - **Pagination**: Blog posts are paginated for easier navigation.
-- **Search Functionality**: Search bar to find specific blog posts by title or content.
 - **Admin Panel**: Django’s built-in admin panel for managing the blog posts, users, and comments.
 - **Responsive Design**: Mobile-friendly design using Bootstrap.
 
