@@ -89,8 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Thanks to the Django community for providing comprehensive documentation and tutorials.
-- [Any other acknowledgments or references you’d like to include]
-
----
-
-Feel free to adjust any sections to better fit your specific project or learning experience!
