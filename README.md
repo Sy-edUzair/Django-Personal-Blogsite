@@ -14,7 +14,6 @@ This is a personal blog website developed using Django, a powerful and flexible 
 - **Comment System**: Users can leave comments on blog posts.
 - **Pagination**: Blog posts are paginated for easier navigation.
 - **Admin Panel**: Django’s built-in admin panel for managing the blog posts, users, and comments.
-- **Responsive Design**: Mobile-friendly design using Bootstrap.
 
 ## Technologies Used
 
